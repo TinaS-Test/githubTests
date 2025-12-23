@@ -6,7 +6,9 @@ public class HelloWorld {
         System.out.println("I will no write a message from a string!");
         System.out.println(message);
 
-        String wishes = "Have agreat day";
+        String wishes = "Have a great day";
         System.out.println(wishes);
+
+        System.out.println("Tomorrow is a holiday");
     }
 }
